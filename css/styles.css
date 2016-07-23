@@ -1,0 +1,66 @@
+img {
+  margin: auto;
+  height: 400px;
+}
+
+
+
+#userAnswer{
+  height: 80px;
+  width:75px;
+  margin: auto;
+  text-align: center:
+  margin-top: 27;
+/*  background-color: #e0e0e0;*/
+  background-position: left top;
+  background-repeat: no-repeat;
+  color: white;
+  font-size: 20px
+  padding-top: 15px;
+}
+
+#history {
+  background-color: #3d5afe;
+  height: 200px;
+  width: 200px;
+  margin:auto;
+  text-align: center;
+}
+
+.bg {
+  background: url('../images/m8.gif') no-repeat center;
+  background-size: 500px;
+  height: 500px;
+}
+
+.eight-answer{
+  margin:auto;
+  height:400px;
+}
+
+.magic-box {
+  width: 0;
+  height: 0;
+  border-left: 70px solid transparent;
+  border-right: 70px solid transparent;
+  border-top: 100px solid blue;
+}
+
+.box-position{
+  margin-left: 30% !important;
+  margin-top: 20% !important;
+}
+
+.container {
+    position: relative;
+}
+
+.absolute{
+  position: absolute;
+}
+
+.image {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
